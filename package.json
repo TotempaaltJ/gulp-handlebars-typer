@@ -1,0 +1,22 @@
+{
+  "name": "gulp-handlebars-typer",
+  "version": "0.1.0",
+  "main": "typer.js",
+  "repository": "TotempaaltJ/gulp-handlebars-typer",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/TotempaaltJ/gulp-handlebars-typer/blob/master/LICENSE"
+    }
+  ],
+  "devDependencies": {},
+  "files": [
+    "LICENSE",
+    "typer.js"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "path": "^0.11.14",
+    "through2": "^2.0.0"
+  }
+}
